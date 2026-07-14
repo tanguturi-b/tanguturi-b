@@ -1,97 +1,155 @@
-┌─────────────────────────────────────────────────────────┐
-    │  tanguturi-b@github:~$ whoami                            │
-    │  > CS Undergraduate // Python Developer (in progress)    │
-    └─────────────────────────────────────────────────────────┘
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&background=00000000&center=false&vCenter=true&width=600&lines=tanguturi-b%40github%3A~%24+learning+python;tanguturi-b%40github%3A~%24+building+data_structures;tanguturi-b%40github%3A~%24+status%3A+in_progress" alt="terminal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TANGUTURI%20B&fontSize=55&fontColor=E0E0FF&fontAlignY=38&desc=Computer%20Science%20Undergraduate&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Data+Structures;Building+Real-World+Projects;Aspiring+Software+Engineer;Consistent+%2B+Curious+%2B+Committed" alt="typing" />
 
-### 01. About
+<br/>
 
-> B.Tech Computer Science Undergraduate.
-> Learning software development the slow, correct way — one project at a time.
+<a href="https://github.com/tanguturi-b"><img src="https://img.shields.io/badge/GitHub-15141F?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<a href="https://www.youtube.com/@zenxi.edits7"><img src="https://img.shields.io/badge/YouTube-15141F?style=for-the-badge&logo=youtube&logoColor=FF6B6B" /></a>
+<img src="https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=302b63&labelColor=15141F" />
 
-    role     : student / aspiring software engineer
-    focus    : python, data structures, git internals
-    status   : actively building, actively learning
-    goal     : software engineer
+</div>
 
----
+<br/>
 
-### 02. Core Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
 
-    LANGUAGE     ── python
-    VCS          ── git / github
-    EDITOR       ── vscode
-    DATA FORMAT  ── json
-    DOCS         ── markdown
+## ⟡ About Me
 
-| layer         | tool                          |
-|:--------------|:-------------------------------|
-| language      | Python                          |
-| vcs           | Git, GitHub                     |
-| editor        | VS Code                         |
-| data          | JSON, File I/O                  |
-| in progress   | CSV, OOP                        |
-| queued        | Exception Handling, SQLite, APIs, Flask, Django |
+<table width="100%">
+<tr>
+<td width="100%">
 
----
+```yaml
+role:       B.Tech Computer Science Undergraduate
+learning:   Python · Data Structures · Git Internals
+building:   Small, real projects — not tutorials on loop
+mindset:    Consistency over speed, fundamentals over shortcuts
+objective:  Become a Software Engineer
+```
 
-### 03. Active Projects
+</td>
+</tr>
+</table>
 
-    $ ls ./projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
 
-| project                     | description                                       |
-|:----------------------------|:---------------------------------------------------|
-| student-grade-calculator    | Computes grades and averages in Python              |
-| expense-tracker              | Console-based expense tracking application          |
-| contact-book                 | Contact manager built with functions + JSON         |
+## ⟡ Tech Stack
 
----
+<div align="center">
 
-### 04. Telemetry
+**Language**
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&count_private=true" alt="stats" />
+<img src="https://img.shields.io/badge/Python-15141F?style=flat-square&logo=python&logoColor=A78BFA&labelColor=15141F"/>
 
-    $ cat streak.log
+**Tools & Ecosystem**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&background=0D1117&border=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak" />
+<img src="https://img.shields.io/badge/Git-15141F?style=flat-square&logo=git&logoColor=F97583"/>
+<img src="https://img.shields.io/badge/GitHub-15141F?style=flat-square&logo=github&logoColor=E0E0FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-15141F?style=flat-square&logo=visualstudiocode&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/JSON-15141F?style=flat-square&logo=json&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Markdown-15141F?style=flat-square&logo=markdown&logoColor=E0E0FF"/>
 
-    $ cat languages.log
+**Currently Learning**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="top languages" />
+<img src="https://img.shields.io/badge/CSV-1E1B33?style=flat-square&logo=googlesheets&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/OOP-1E1B33?style=flat-square&logo=python&logoColor=A78BFA"/>
 
-    $ cat activity.log
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true" alt="activity graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
 
-    $ cat roadmap.log
+## ⟡ Featured Projects
 
-    [done]     variables, data types, operators, i/o
-    [done]     conditionals, loops
-    [done]     lists, tuples, dictionaries
-    [done]     functions, json, file handling
-    [active]   csv, oop
-    [queued]   exception handling, sqlite, apis, flask, django
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+</tr>
+<tr>
+<td>🎓 <b>Student Grade Calculator</b></td>
+<td>Calculates grades and averages using Python</td>
+</tr>
+<tr>
+<td>💰 <b>Expense Tracker</b></td>
+<td>Console-based expense tracking application</td>
+</tr>
+<tr>
+<td>📒 <b>Contact Book</b></td>
+<td>Contact manager built with functions and JSON</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
 
-### 05. Beyond Stdout
+## ⟡ Learning Roadmap
 
-    $ cat interests.log
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
 
-> Cricket edit videos, made while learning video editing on the side.
+**✓ Completed**
+- Variables & Data Types
+- Operators, I/O
+- Conditionals & Loops
+- Lists, Tuples, Dicts
+- Functions
+- JSON & File Handling
 
-    channel  : youtube.com/@zenxi.edits7
+</td>
+<td valign="top" width="33%">
 
----
+**◐ In Progress**
+- CSV
+- Object-Oriented Programming
 
-> "Success is built one project at a time."
+</td>
+<td valign="top" width="33%">
 
-    tanguturi-b@github:~$ contact --list
-    > github    : github.com/tanguturi-b
-    > youtube   : youtube.com/@zenxi.edits7
-    tanguturi-b@github:~$ _
+**○ Next Up**
+- Exception Handling
+- SQLite
+- APIs
+- Flask / Django
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanguturi-b&color=0D1117&style=flat-square&label=visits)
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
+
+## ⟡ GitHub Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15141F&title_color=A78BFA&icon_color=A78BFA&text_color=E0E0FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&hide_border=true&bg_color=15141F&title_color=A78BFA&text_color=E0E0FF"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&hide_border=true&background=15141F&stroke=302b63&ring=A78BFA&fire=F97583&currStreakLabel=A78BFA&sideLabels=E0E0FF&currStreakNum=E0E0FF&sideNums=E0E0FF&dates=6B7280"/>
+
+<br/><br/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&bg_color=15141F&color=A78BFA&line=A78BFA&point=E0E0FF&area=true&hide_border=true"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&width=100%"/>
+
+## ⟡ Beyond Code
+
+Cricket edit videos, made while learning video editing on the side.
+📺 [@zenxi.edits7](https://www.youtube.com/@zenxi.edits7)
+
+<br/>
+
+<div align="center">
+
+> *"Success is built one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
