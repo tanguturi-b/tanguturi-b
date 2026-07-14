@@ -1,12 +1,34 @@
 <div align="center">
 
-# 👋 Hey, I'm Tanguturi B
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Tanguturi%20B&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Python+Developer+in+Progress;Building+12+Python+Projects;Future+Software+Engineer;Learning+Something+New+Every+Day+🚀)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Python+Developer+in+Progress;Building+12+Python+Projects;Future+Software+Engineer;Learning+Every+Single+Day+🚀)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+# 👋 Welcome to My GitHub
+
+```python
+class TanguturiB:
+
+    def __init__(self):
+        self.name = "Tanguturi B"
+        self.education = "B.Tech CSE"
+        self.country = "India"
+        self.learning = [
+            "Python",
+            "Git",
+            "GitHub",
+            "JSON",
+            "File Handling"
+        ]
+        self.goal = "Software Engineer"
+
+    def current_status(self):
+        return "Building one project at a time."
+```
 
 ---
 
@@ -14,19 +36,17 @@
 
 🎓 B.Tech Computer Science Undergraduate
 
-🐍 Currently learning Python
+🐍 Passionate about learning Python
 
-📚 Building **12 Python Projects** from Beginner to Advanced
+💻 Building projects consistently
 
-🌱 Learning Git, GitHub, JSON, File Handling, and DSA
+📚 Learning by creating real applications
 
-🎯 Goal: Become a Software Engineer
-
-💡 I believe consistency beats talent.
+🚀 Working towards becoming a Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Current Tech Stack
 
 <p align="center">
 
@@ -36,67 +56,43 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Current Projects
 
-<p align="center">
+🚀 Student Grade Calculator
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+💰 Expense Tracker
 
-</p>
+📒 Contact Book (JSON)
 
----
-
-# 📈 Contribution Graph
-
-[![Tanguturi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+✨ More Projects Coming Soon...
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tanguturi-b/tanguturi-b/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💻 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎓 Student Grade Calculator | Calculate grades using Python |
-| 💰 Expense Tracker | Track daily expenses |
-| 📒 Contact Book | Contact manager with JSON File Handling |
-| 🚀 More Projects Coming... | Building towards 12 Python Projects |
-
----
-
-# 📚 Current Learning Roadmap
+# 📈 My Learning Journey
 
 ```text
-████████████□□□□□□□□ 40%
+████████████□□□□□□□□□□
 
-✅ Python Basics
+✅ Variables
+✅ Input / Output
 ✅ Conditions
 ✅ Loops
 ✅ Lists
@@ -106,34 +102,62 @@
 ✅ File Handling
 
 ⬜ CSV
-⬜ OOP
+
+⬜ Object Oriented Programming
+
 ⬜ Exception Handling
+
 ⬜ SQLite
+
 ⬜ APIs
+
 ⬜ Flask
+
 ⬜ Django
-⬜ Full Stack
+
+⬜ Full Stack Development
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🌟 My Mission
+
+```text
+Keep Learning.
+Keep Building.
+Keep Improving.
+Never Stop.
+```
+
+---
+
+# 🎥 Beyond Coding
+
+Besides coding, I also enjoy creating cricket edits and learning video editing.
+
+📺 YouTube
+
+https://www.youtube.com/@zenxi.edits7
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://github.com/tanguturi-b">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.youtube.com/@zenxi.edits7">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitors
 
 <p align="center">
 
@@ -147,10 +171,10 @@
 
 ## 💬 Quote
 
-> **"Every project I build teaches me something new. This profile documents my journey from beginner to software engineer."**
+*"Every project I build brings me one step closer to becoming the engineer I aspire to be."*
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my GitHub Profile!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,50:203a43,100:0f2027"/>
