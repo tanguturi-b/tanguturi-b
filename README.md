@@ -1,161 +1,97 @@
-<div align="center">
+┌─────────────────────────────────────────────────────────┐
+    │  tanguturi-b@github:~$ whoami                            │
+    │  > CS Undergraduate // Python Developer (in progress)    │
+    └─────────────────────────────────────────────────────────┘
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tanguturi%20B&fontSize=60&fontColor=00F5D4&fontAlignY=35&animation=fadeIn&desc=CS%20Undergraduate%20%7C%20Aspiring%20Python%20Developer&descAlignY=55&descSize=18" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&background=00000000&center=false&vCenter=true&width=600&lines=tanguturi-b%40github%3A~%24+learning+python;tanguturi-b%40github%3A~%24+building+data_structures;tanguturi-b%40github%3A~%24+status%3A+in_progress" alt="terminal" />
 
-<a href="https://github.com/tanguturi-b">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Learning+Python+%26+Data+Structures;Building+Real+Projects+Daily;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+---
 
-</div>
+### 01. About
 
-<br/>
+> B.Tech Computer Science Undergraduate.
+> Learning software development the slow, correct way — one project at a time.
 
-## 🚀 About Me
+    role     : student / aspiring software engineer
+    focus    : python, data structures, git internals
+    status   : actively building, actively learning
+    goal     : software engineer
 
-- 🎓 B.Tech Computer Science Undergraduate
-- 🌱 Currently learning **Python** and **Data Structures**
-- 💻 Building projects to strengthen problem-solving skills
-- 🔥 Exploring Git, GitHub, JSON, File Handling, and more
-- 🎯 Goal: Become a Software Engineer
+---
 
-<br/>
+### 02. Core Stack
 
-## 🛠️ Tech Stack
+    LANGUAGE     ── python
+    VCS          ── git / github
+    EDITOR       ── vscode
+    DATA FORMAT  ── json
+    DOCS         ── markdown
 
-**Languages**
+| layer         | tool                          |
+|:--------------|:-------------------------------|
+| language      | Python                          |
+| vcs           | Git, GitHub                     |
+| editor        | VS Code                         |
+| data          | JSON, File I/O                  |
+| in progress   | CSV, OOP                        |
+| queued        | Exception Handling, SQLite, APIs, Flask, Django |
 
-<p>
-<img src="https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=00F5D4" />
-</p>
+---
 
-**Tools & Platforms**
+### 03. Active Projects
 
-<p>
-<img src="https://img.shields.io/badge/Git-1E1E2E?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-1E1E2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/JSON-1E1E2E?style=flat-square&logo=json&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Markdown-1E1E2E?style=flat-square&logo=markdown&logoColor=white" />
-</p>
+    $ ls ./projects
 
-**Currently Learning**
+| project                     | description                                       |
+|:----------------------------|:---------------------------------------------------|
+| student-grade-calculator    | Computes grades and averages in Python              |
+| expense-tracker              | Console-based expense tracking application          |
+| contact-book                 | Contact manager built with functions + JSON         |
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures-2C2C3C?style=flat-square&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/OOP-2C2C3C?style=flat-square&logo=python&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/CSV-2C2C3C?style=flat-square&logo=files&logoColor=8ecae6" />
-</p>
+---
 
-<br/>
+### 04. Telemetry
 
-## 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&count_private=true" alt="stats" />
 
-<table align="center">
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars&card_width=400" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&hide_border=true&theme=tokyonight&card_width=400" />
-</td>
-</tr>
-</table>
+    $ cat streak.log
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&background=0D1117&border=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak" />
 
-<br/>
+    $ cat languages.log
 
-## 📂 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="top languages" />
 
-| Project | Description |
-|:---|:---|
-| 🎓 **Student Grade Calculator** | Calculates grades and averages using Python |
-| 💰 **Expense Tracker** | Console-based expense tracking application |
-| 📒 **Contact Book** | Contact manager using Functions and JSON |
+    $ cat activity.log
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true" alt="activity graph" />
 
-## 📚 Learning Roadmap
+    $ cat roadmap.log
 
-<table>
-<tr>
-<td valign="top" width="33%">
+    [done]     variables, data types, operators, i/o
+    [done]     conditionals, loops
+    [done]     lists, tuples, dictionaries
+    [done]     functions, json, file handling
+    [active]   csv, oop
+    [queued]   exception handling, sqlite, apis, flask, django
 
-**✅ Completed**
-- Variables & Data Types
-- Operators
-- Input / Output
-- Conditions & Loops
-- Lists, Tuples, Dictionaries
-- Functions
-- JSON
-- File Handling
+---
 
-</td>
-<td valign="top" width="33%">
+### 05. Beyond Stdout
 
-**🔄 In Progress**
-- CSV
-- Object-Oriented Programming (OOP)
+    $ cat interests.log
 
-</td>
-<td valign="top" width="33%">
+> Cricket edit videos, made while learning video editing on the side.
 
-**🎯 Next Up**
-- Exception Handling
-- SQLite
-- APIs
-- Flask
-- Django
-- Full Stack Development
+    channel  : youtube.com/@zenxi.edits7
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 GitHub Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night&hide_border=true" />
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</div>
-
-<br/>
-
-## 🎥 Beyond Coding
-
-I also enjoy creating cricket edit videos while learning video editing.
-
-📺 **YouTube:** [@zenxi.edits7](https://www.youtube.com/@zenxi.edits7)
-
-<br/>
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<a href="https://github.com/tanguturi-b"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@zenxi.edits7"><img src="https://img.shields.io/badge/YouTube-1E1E2E?style=flat-square&logo=youtube&logoColor=FF0000" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=0F2027)
-
-<br/>
+---
 
 > "Success is built one project at a time."
 
-⭐ **Thanks for visiting my GitHub profile!**
+    tanguturi-b@github:~$ contact --list
+    > github    : github.com/tanguturi-b
+    > youtube   : youtube.com/@zenxi.edits7
+    tanguturi-b@github:~$ _
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=tanguturi-b&color=0D1117&style=flat-square&label=visits)
