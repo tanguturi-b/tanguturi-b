@@ -1,180 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Tanguturi%20B&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tanguturi%20B&fontSize=60&fontColor=00F5D4&fontAlignY=35&animation=fadeIn&desc=CS%20Undergraduate%20%7C%20Aspiring%20Python%20Developer&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Python+Developer+in+Progress;Building+12+Python+Projects;Future+Software+Engineer;Learning+Every+Single+Day+🚀)](https://git.io/typing-svg)
+<a href="https://github.com/tanguturi-b">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Learning+Python+%26+Data+Structures;Building+Real+Projects+Daily;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-# 👋 Welcome to My GitHub
+## 🚀 About Me
 
-```python
-class TanguturiB:
+- 🎓 B.Tech Computer Science Undergraduate
+- 🌱 Currently learning **Python** and **Data Structures**
+- 💻 Building projects to strengthen problem-solving skills
+- 🔥 Exploring Git, GitHub, JSON, File Handling, and more
+- 🎯 Goal: Become a Software Engineer
 
-    def __init__(self):
-        self.name = "Tanguturi B"
-        self.education = "B.Tech CSE"
-        self.country = "India"
-        self.learning = [
-            "Python",
-            "Git",
-            "GitHub",
-            "JSON",
-            "File Handling"
-        ]
-        self.goal = "Software Engineer"
+<br/>
 
-    def current_status(self):
-        return "Building one project at a time."
-```
+## 🛠️ Tech Stack
 
----
+**Languages**
 
-# 🚀 About Me
-
-🎓 B.Tech Computer Science Undergraduate
-
-🐍 Passionate about learning Python
-
-💻 Building projects consistently
-
-📚 Learning by creating real applications
-
-🚀 Working towards becoming a Software Engineer
-
----
-
-# 🛠 Current Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,markdown,json"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=00F5D4" />
 </p>
 
----
+**Tools & Platforms**
 
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-1E1E2E?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-1E1E2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/JSON-1E1E2E?style=flat-square&logo=json&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Markdown-1E1E2E?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-<p align="center">
+**Currently Learning**
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures-2C2C3C?style=flat-square&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/OOP-2C2C3C?style=flat-square&logo=python&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/CSV-2C2C3C?style=flat-square&logo=files&logoColor=8ecae6" />
 </p>
 
----
+<br/>
 
-# 🏆 Current Projects
+## 📊 GitHub Statistics
 
-🚀 Student Grade Calculator
+<table align="center">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars&card_width=400" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&hide_border=true&theme=tokyonight&card_width=400" />
+</td>
+</tr>
+</table>
 
-💰 Expense Tracker
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true" />
+</div>
 
-📒 Contact Book (JSON)
+<br/>
 
-✨ More Projects Coming Soon...
+## 📂 Featured Projects
 
----
+| Project | Description |
+|:---|:---|
+| 🎓 **Student Grade Calculator** | Calculates grades and averages using Python |
+| 💰 **Expense Tracker** | Console-based expense tracking application |
+| 📒 **Contact Book** | Contact manager using Functions and JSON |
 
-# 📈 My Learning Journey
+<br/>
 
-```text
-████████████□□□□□□□□□□
+## 📚 Learning Roadmap
 
-✅ Variables
-✅ Input / Output
-✅ Conditions
-✅ Loops
-✅ Lists
-✅ Dictionaries
-✅ Functions
-✅ JSON
-✅ File Handling
+<table>
+<tr>
+<td valign="top" width="33%">
 
-⬜ CSV
+**✅ Completed**
+- Variables & Data Types
+- Operators
+- Input / Output
+- Conditions & Loops
+- Lists, Tuples, Dictionaries
+- Functions
+- JSON
+- File Handling
 
-⬜ Object Oriented Programming
+</td>
+<td valign="top" width="33%">
 
-⬜ Exception Handling
+**🔄 In Progress**
+- CSV
+- Object-Oriented Programming (OOP)
 
-⬜ SQLite
+</td>
+<td valign="top" width="33%">
 
-⬜ APIs
+**🎯 Next Up**
+- Exception Handling
+- SQLite
+- APIs
+- Flask
+- Django
+- Full Stack Development
 
-⬜ Flask
+</td>
+</tr>
+</table>
 
-⬜ Django
+<br/>
 
-⬜ Full Stack Development
-```
+## 🏆 GitHub Activity
 
----
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night&hide_border=true" />
+</div>
 
-# 🌟 My Mission
+## 🏅 GitHub Trophies
 
-```text
-Keep Learning.
-Keep Building.
-Keep Improving.
-Never Stop.
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
 
----
+<br/>
 
-# 🎥 Beyond Coding
+## 🎥 Beyond Coding
 
-Besides coding, I also enjoy creating cricket edits and learning video editing.
+I also enjoy creating cricket edit videos while learning video editing.
 
-📺 YouTube
+📺 **YouTube:** [@zenxi.edits7](https://www.youtube.com/@zenxi.edits7)
 
-https://www.youtube.com/@zenxi.edits7
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=blue"/>
-
-</p>
-
----
+<br/>
 
 <div align="center">
 
-## 💬 Quote
+## 📫 Connect With Me
 
-*"Every project I build brings me one step closer to becoming the engineer I aspire to be."*
+<a href="https://github.com/tanguturi-b"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.youtube.com/@zenxi.edits7"><img src="https://img.shields.io/badge/YouTube-1E1E2E?style=flat-square&logo=youtube&logoColor=FF0000" /></a>
 
-⭐ Thank you for visiting my GitHub Profile!
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=0F2027)
+
+<br/>
+
+> "Success is built one project at a time."
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,50:203a43,100:0f2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
