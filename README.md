@@ -1,84 +1,131 @@
-<div align="center">
+# 👋 Hi, I'm Tanguturi B
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Tanguturi%20B&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+### 🎓 Computer Science Undergraduate | Python Developer in Progress
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Python+Developer;Building+12+Python+Projects;Future+Software+Engineer"/>
+Welcome to my GitHub! I'm currently learning software development by building real projects and improving my programming skills every day.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Undergraduate
+- 🌱 Currently learning Python and Data Structures
+- 💻 Building projects to strengthen problem-solving skills
+- 🔥 Exploring Git, GitHub, JSON, File Handling, and more
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
-
-<a href="https://github.com/tanguturi-b">
-<img src="https://img.shields.io/github/followers/tanguturi-b?label=Followers&style=for-the-badge&color=0D1117&labelColor=238636"/>
-</a>
-
-<a href="https://github.com/tanguturi-b">
-<img src="https://img.shields.io/github/stars/tanguturi-b?affiliations=OWNER&style=for-the-badge&color=0D1117&labelColor=1F6FEB"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=blue"/>
-
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,json,markdown" />
 </p>
 
-</div>
+**Currently Learning**
+
+- Python
+- Git
+- GitHub
+- JSON
+- File Handling
+- Data Structures (Coming Soon)
 
 ---
 
-# 👨‍💻 About Me
+## 📊 GitHub Statistics
 
-```python
-class TanguturiB:
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight" />
+</p>
 
-    def __init__(self):
-        self.name = "Tanguturi B"
-        self.role = "Computer Science Undergraduate"
-        self.location = "India"
-
-        self.languages = [
-            "Python"
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "JSON"
-        ]
-
-        self.current_focus = [
-            "Building 12 Python Projects",
-            "Problem Solving",
-            "Learning Every Day"
-        ]
-
-        self.goal = "Software Engineer"
-
-    def motto(self):
-        return "Consistency beats excuses."
-```
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,json,markdown"/>
-
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
+| Project | Description |
+|---------|-------------|
+| 🎓 Student Grade Calculator | Calculates grades and averages using Python |
+| 💰 Expense Tracker | Console-based expense tracking application |
+| 📒 Contact Book | Contact manager using Functions and JSON |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true"/>
+## 📚 Learning Roadmap
 
-</p>
+### ✅ Completed
 
-<p align="center">
+- Variables
+- Data Types
+- Operators
+- Input / Output
+- Conditions
+- Loops
+- Lists
+- Tuples
+- Dictionaries
+- Functions
+- JSON
+- File Handling
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🔄 Currently Learning
 
-</p>
+- CSV
+- Object-Oriented Programming (OOP)
+
+### 🎯 Next Goals
+
+- Exception Handling
+- SQLite
+- APIs
+- Flask
+- Django
+- Full Stack Development
+
+---
+
+## 🏆 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night)
+
+---
+
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&column=4)
+
+---
+
+## 🎥 Beyond Coding
+
+I also enjoy creating cricket edit videos while learning video editing.
+
+📺 **YouTube:** https://www.youtube.com/@zenxi.edits7
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=blue)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/tanguturi-b
+- YouTube: https://www.youtube.com/@zenxi.edits7
+
+---
+
+## 💡 Quote
+
+> "Success is built one project at a time."
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
