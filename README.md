@@ -1,131 +1,183 @@
-# 👋 Hi, I'm Tanguturi B
+<div align="center">
 
-### 🎓 Computer Science Undergraduate | Python Developer in Progress
+# 👋 Hey, I'm Tanguturi B
 
-Welcome to my GitHub! I'm currently learning software development by building real projects and improving my programming skills every day.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Python+Developer+in+Progress;Building+12+Python+Projects;Future+Software+Engineer;Learning+Every+Day+🚀"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20GitHub&fontSize=42&animation=fadeIn"/>
 
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Undergraduate
-- 🌱 Currently learning Python and Data Structures
-- 💻 Building projects to strengthen problem-solving skills
-- 🔥 Exploring Git, GitHub, JSON, File Handling, and more
-- 🎯 Goal: Become a Software Engineer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,json,markdown" />
+```python
+class TanguturiB:
+
+    def __init__(self):
+        self.name = "Tanguturi B"
+        self.role = "Computer Science Undergraduate"
+        self.location = "India"
+        self.learning = [
+            "Python",
+            "Git",
+            "GitHub",
+            "JSON",
+            "File Handling"
+        ]
+        self.goal = "Software Engineer"
+
+    def motto(self):
+        return "Build • Learn • Improve • Repeat"
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,json,markdown"/>
+
 </p>
 
-**Currently Learning**
-
-- Python
-- Git
-- GitHub
-- JSON
-- File Handling
-- Data Structures (Coming Soon)
-
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Dashboard
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight" />
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight" />
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 📈 GitHub Activity
 
-| Project | Description |
-|---------|-------------|
-| 🎓 Student Grade Calculator | Calculates grades and averages using Python |
-| 💰 Expense Tracker | Console-based expense tracking application |
-| 📒 Contact Book | Contact manager using Functions and JSON |
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night"/>
 
-## 📚 Learning Roadmap
-
-### ✅ Completed
-
-- Variables
-- Data Types
-- Operators
-- Input / Output
-- Conditions
-- Loops
-- Lists
-- Tuples
-- Dictionaries
-- Functions
-- JSON
-- File Handling
-
-### 🔄 Currently Learning
-
-- CSV
-- Object-Oriented Programming (OOP)
-
-### 🎯 Next Goals
-
-- Exception Handling
-- SQLite
-- APIs
-- Flask
-- Django
-- Full Stack Development
+</p>
 
 ---
 
-## 🏆 GitHub Activity
+# 🏆 GitHub Trophies
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-## 🏅 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&column=4)
+</p>
 
 ---
 
-## 🎥 Beyond Coding
+# 📂 Featured Projects
 
-I also enjoy creating cricket edit videos while learning video editing.
-
-📺 **YouTube:** https://www.youtube.com/@zenxi.edits7
-
----
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=blue)
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| 🎓 Student Grade Calculator | Calculates grades, averages, and pass/fail status |
+| 💰 Expense Tracker | Console application to manage daily expenses |
+| 📒 Contact Book | Contact management system with JSON file handling |
 
 ---
 
-## 📫 Connect With Me
+# 📚 Learning Progress
 
-- GitHub: https://github.com/tanguturi-b
-- YouTube: https://www.youtube.com/@zenxi.edits7
+```text
+██████████□□□□□□□□□□ 50%
+
+✅ Variables
+✅ Data Types
+✅ Operators
+✅ Conditions
+✅ Loops
+✅ Lists
+✅ Tuples
+✅ Dictionaries
+✅ Functions
+✅ JSON
+✅ File Handling
+
+🔄 Currently Learning
+⬜ CSV
+⬜ Object-Oriented Programming (OOP)
+
+🎯 Coming Next
+⬜ Exception Handling
+⬜ SQLite
+⬜ APIs
+⬜ Flask
+⬜ Django
+⬜ Full Stack Development
+```
 
 ---
 
-## 💡 Quote
+# 🎯 Current Goals
 
-> "Success is built one project at a time."
+- 🚀 Complete 12 Python Projects
+- 📚 Master Data Structures & Algorithms
+- 🌐 Learn Full Stack Development
+- 💼 Build an Outstanding Portfolio
+- 🎯 Secure a Software Engineering Internship
 
 ---
+
+# 🎥 Beyond Coding
+
+Besides programming, I also enjoy creating **cricket edit videos** while improving my video editing skills.
+
+📺 **YouTube**
+
+https://www.youtube.com/@zenxi.edits7
+
+---
+
+# 📊 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanguturi-b&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/tanguturi-b">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.youtube.com/@zenxi.edits7">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Personal Motto
+
+> **"Every project I build is one more step toward becoming the engineer I aspire to be."**
 
 ⭐ Thanks for visiting my GitHub profile!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
