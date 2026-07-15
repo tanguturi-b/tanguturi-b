@@ -1,186 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Tanguturi%20B&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+# Hi 👋, I'm Tanguturi B
 
-# 👋 Hey, I'm Tanguturi B
+**Computer Science Undergraduate (B.Tech CSE – 3rd Year)** · 🇮🇳 India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Python+Developer+in+Progress;Building+12+Python+Projects;Learning+One+Project+at+a+Time;Future+Software+Engineer)](https://git.io/typing-svg)
+*Building a portfolio of 12 Python projects, one commit at a time.*
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=tanguturi-b&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/tanguturi-b?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/tanguturi-b?affiliations=OWNER&style=for-the-badge"/>
-</p>
+[![YouTube](https://img.shields.io/badge/YouTube-Zenxi%20Edits-red?style=flat-square&logo=youtube)](https://www.youtube.com/@zenxi.edits7)
+[![GitHub](https://img.shields.io/badge/GitHub-tanguturi--b-181717?style=flat-square&logo=github)](https://github.com/tanguturi-b)
 
 </div>
 
 ---
 
-# 💫 About Me
+### 👨‍💻 About Me
 
-```python
-class TanguturiB:
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Passionate about programming and software development
+- 🐍 Currently learning Python through real-world projects
+- 📂 Building a portfolio of 12 Python projects
+- 🌱 Continuously improving problem-solving skills
+- 🚀 Exploring Git and GitHub
+- 🎯 Aiming to become a Software Engineer
 
-    def __init__(self):
-        self.role = "Computer Science Undergraduate"
-        self.language = "Python"
-        self.current_projects = 3
-        self.goal = "Become a Software Engineer"
+### 💡 Short Bio
 
-    def current_focus(self):
-        return [
-            "Python",
-            "Git",
-            "GitHub",
-            "Problem Solving",
-            "Building Real Projects"
-        ]
-```
+Computer Science undergraduate passionate about Python development and building real-world projects. Currently focused on strengthening programming skills through practical projects while learning Git, GitHub, and modern software development practices.
 
 ---
 
-# 🚀 Tech Stack
+### 📚 Currently Learning → 📖 Learning Next
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,json,markdown"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+| Currently Learning | Learning Next |
+|---|---|
+| Python | CSV |
+| Git | Object-Oriented Programming (OOP) |
+| GitHub | Exception Handling |
+| Functions | SQLite |
+| File Handling | APIs |
+| JSON | Flask, Django |
+| | Data Structures & Algorithms |
 
 ---
 
-# 📈 Contribution Graph
+### 🛠 Languages & Tools
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanguturi-b&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanguturi-b&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ---
 
-# 🐍 Contribution Snake
+### 🚀 Projects
 
-<p align="center">
+- 🎓 **Student Grade Calculator**
+- 💰 **Expense Tracker**
+- 📒 **Contact Book**
 
-<img src="https://raw.githubusercontent.com/tanguturi-b/tanguturi-b/output/github-contribution-grid-snake.svg"/>
+### 🎯 Goals
 
-</p>
+- [ ] Complete 12 Python projects
+- [ ] Learn DSA
+- [ ] Learn Full Stack Development
+- [ ] Build a professional portfolio
+- [ ] Secure a Software Engineering internship
+- [ ] Contribute to open source
 
-> **Note:** The snake animation won't appear until you set up a GitHub Action later.
+### 🎥 Hobbies & Interests
 
----
-
-# 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎓 Student Grade Calculator | Calculates grades, averages, and pass/fail status |
-| 💰 Expense Tracker | Console application to manage daily expenses |
-| 📒 Contact Book | Contact management system using Functions & JSON |
-
----
-
-# 📚 Learning Journey
-
-```text
-██████████□□□□□□□□□□
-
-✔ Variables
-✔ Data Types
-✔ Operators
-✔ Conditions
-✔ Loops
-✔ Lists
-✔ Tuples
-✔ Dictionaries
-✔ Functions
-✔ JSON
-✔ File Handling
-
-🔄 Currently Learning
-⬜ CSV
-⬜ Object-Oriented Programming (OOP)
-
-🎯 Next
-⬜ SQLite
-⬜ APIs
-⬜ Flask
-⬜ Django
-```
+🏏 Cricket · 🎬 Creating cricket edit videos · 🎥 Learning video editing · 💻 Programming · 📚 Learning new technologies
 
 ---
 
-# 🎯 Goals
+### 📊 GitHub Stats
 
-- 🚀 Complete 12 Python Projects
-- 📚 Learn Data Structures & Algorithms
-- 🌐 Learn Full Stack Development
-- 💼 Build a Strong Portfolio
-- 🎯 Secure a Software Engineering Internship
+<div align="center">
 
----
+![Tanguturi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanguturi-b&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanguturi-b&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanguturi-b&theme=dark&hide_border=true)
 
-# 🎥 YouTube
+</div>
 
-I also enjoy creating cricket edit videos while improving my editing skills.
-
-📺 **Channel:** https://www.youtube.com/@zenxi.edits7
+> The three widgets above render live automatically — no setup needed, just replace `tanguturi-b` if your username ever changes.
 
 ---
 
-# 🌐 Connect
+### 📈 Live Metrics Dashboard (isometric calendar, coding habits, languages)
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/tanguturi-b">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<!--START_SECTION:metrics-->
+![Metrics dashboard](./metrics.svg)
+<!--END_SECTION:metrics-->
 
-<a href="https://www.youtube.com/@zenxi.edits7">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
+</div>
 
-</p>
+> This section is generated by the `metrics.yml` workflow (lowlighter/metrics). Once the Action runs for the first time, it commits `metrics.svg` to this repo and the image above will render your real, live-updating dashboard — the closest possible match to the reference image, built from your actual GitHub activity.
 
 ---
 
 <div align="center">
 
-## 💭 Quote
-
-> **"Every project I build teaches me something new. Small improvements every day lead to big achievements."**
-
-⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+🔥 *I believe in learning by building projects. Every completed project teaches me something new. Always learning, always building.*
 
 </div>
