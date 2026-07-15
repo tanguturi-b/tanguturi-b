@@ -39,3 +39,13 @@ jobs:
 
           config_timezone: Asia/Kolkata
           config_display: large
+
+          extras_css: |
+            :root {
+              --color-canvas-default: #0d1117 !important;
+              --color-canvas-subtle: #0d1117 !important;
+              --color-fg-default: #ffffff !important;
+            }
+            body, .metrics-container {
+              background-color: #0d1117 !important;
+            }
