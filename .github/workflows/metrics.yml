@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
+          plugin_repositories_order: update
           config_timezone: Asia/Kolkata
           config_display: large
 
@@ -47,15 +47,14 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
+          plugin_repositories_order: update
           config_timezone: Asia/Kolkata
           config_display: large
           extras_css: |
-            .metrics-partial--base,
-            .metrics-partial--isocalendar,
-            .metrics-partial--languages,
-            .metrics-partial--repositories {
+            svg {
+              background-color: #0d1117;
+            }
+            .items-wrapper {
               background-color: #0d1117;
               color: #c9d1d9;
-              fill: #c9d1d9;
             }
