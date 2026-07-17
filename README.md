@@ -56,9 +56,10 @@ Computer Science undergraduate passionate about Python development and building 
 
 ### 🚀 Projects
 
-- 🎓 **Student Grade Calculator**
-- 💰 **Expense Tracker**
-- 📒 **Contact Book**
+- 🎓 **[Student Grade Calculator](https://github.com/tanguturi-b/Student-Grade-Calculator)**
+- 💰 **[Expense Tracker](https://github.com/tanguturi-b/Expense-Tracker)**
+- 📒 **[Contact Book](https://github.com/tanguturi-b/Contact-Book)**
+- 📝 **[TODO List Manager (CSV)](https://github.com/tanguturi-b/TODO-List-Manager)** — command-line task manager with CSV-based persistent storage
 
 ### 🎯 Goals
 
@@ -99,7 +100,7 @@ Computer Science undergraduate passionate about Python development and building 
 
 </div>
 
-> This section is generated automatically by the `metrics.yml` workflow. Once the Action runs, it creates `metrics.light.svg` and `metrics.dark.svg` in this repo, and the image above will switch automatically depending on whether a visitor's GitHub is set to light or dark mode.
+> This section is generated automatically by the `metrics.yml` workflow. Once the Action runs, it creates `metrics.light.svg` and `metrics.dark.svg` in this repo, and the image above switches automatically depending on whether a visitor's GitHub is set to light or dark mode.
 
 ---
 
